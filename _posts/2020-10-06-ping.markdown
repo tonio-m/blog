@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ping"
+date:   2020-10-06 21:35:56 -0300
+categories: update
+---
+
+I just made this blog. It will be empty for a while.
+
+But to make your visit worthwhile, here is how you make a factory in python functionally (a.k.a currying):
+
+```python
+def greetings_factory(pronoun):
+    nonlocal greeting_prefix = "hello"
+    def greet(name):
+        print(greeting_prefix,pronoun,name)
+
+greetings_factory("mr.")("jonathan")
+```
