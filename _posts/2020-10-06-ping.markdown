@@ -7,7 +7,7 @@ categories: update
 
 I just made this blog. It will be empty for a while.
 
-But to make your visit worthwhile, here is how you make a factory in python functionally (a.k.a currying):
+But to make your visit worth it, here is how you make a factory in python functionally (a.k.a currying):
 
 ```python
 def greetings_factory(pronoun):
