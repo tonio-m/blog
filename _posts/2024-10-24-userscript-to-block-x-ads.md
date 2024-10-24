@@ -1,6 +1,3 @@
-Doing a Userscript to Block X/Twitter Ads
-===========================
-
 Recently I've noticed twitter has a lot more ads than before. 
 
 AND I'm also currently on a kick of writing userscripts for everything. They're just so versatile and easy to make. You can make these big tech websites feel like yours again. Feel like you have control.

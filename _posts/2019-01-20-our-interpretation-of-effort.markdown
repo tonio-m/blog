@@ -1,5 +1,3 @@
-Our Interpretation of Effort
-===========================
 > Why we leave stuff for later, and how we build habits.
 
 ![@deuveir](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YsknxIsE7mQtquvrz40f7A.jpeg)
