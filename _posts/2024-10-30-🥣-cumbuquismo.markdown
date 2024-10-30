@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/d9b61db2-8055-4f0c-b030-1d00a172e824" width="400" height="300">
+![image](https://github.com/user-attachments/assets/c3bfee62-2ed8-4321-8866-e5dad4af0f43)
 
 > Eu sou adepto do *cumbuquismo*.
 > Todos os dias eu reservo uma hora (12h-13h) pra cozinhar, lavar louça e comer.
