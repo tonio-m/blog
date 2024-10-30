@@ -21,7 +21,7 @@
 title: tonio/🌱📝
 email: github@mtonio.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog at /home/tonio/🌱📝/, where text seedlings grow
+  my blog, where text seedlings grow to trees (or maybe shrubs)
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://tonio-m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: tonio-m.github.io
