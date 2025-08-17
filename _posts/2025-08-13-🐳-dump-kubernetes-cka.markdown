@@ -32,7 +32,7 @@ CrashLoopBackOff num pod pode ser varias coisas, se você der k get pod, dentro 
 
 k logs podname --container=x pra ver os logs do pod
 
-quando um pod é filho de um controller dá pra ver em k describe pod podname | grep ControlledBy:
+quando um pod é filho de um controller dá pra ver em k describe pod podname \| grep ControlledBy:
 
 volumes hostPath montam a pasta do pod diretamente no host, é muito usado em static pods
 
@@ -116,7 +116,7 @@ coredns roda no kube-system e é o que resolve os dns tipo .svc.cluster.local
 
 o coredns é definidos nos pods como um servidor dns mesmo, na porta 53 e tudo mais
 
-se você fizer ps aux | grep kubelet você consegue ver onde ficam os arquivos de configuração do kubelet, incluindo o --config que é o mais importante
+se você fizer ps aux \| grep kubelet você consegue ver onde ficam os arquivos de configuração do kubelet, incluindo o --config que é o mais importante
 
 é possivel deployar mais de um scheduler no kubernetes, e as vezes pra setups de infraestrutura muito customizados, ou que sofrem trafego de criacao/destruicao de pods muito alto é o que eles fazem
 
